@@ -19,7 +19,7 @@ import model.Tuan;
 
 /**
  *
- * @author myduythanh_hocviencongnghebuuchinhvie
+ * @author myduythanh_hocviencongnghebuuch
  */
 public class CaLamViecDAO {
     public CaLamViec getCaLamViecByID(int id) {
