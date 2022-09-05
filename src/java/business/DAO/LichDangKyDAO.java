@@ -14,7 +14,7 @@ import model.Tuan;
 
 /**
  *
- * @author myduythanh
+ * @author myduythanhfffff
  */
 public class LichDangKyDAO {
 
